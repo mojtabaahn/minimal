@@ -1,5 +1,5 @@
 # mojtabaa hn's minimal photoblog
-*__minimal__ is a __free wordpress__ photoblog theme based on [automattic underscores](http://google.com/?q=automattic+underscores)*
+*__minimal__ is a __free wordpress__ photoblog theme based on [automattic underscores](https://github.com/Automattic/_s)*
 
 hi fellow, I'm currently developing my first of all wordpress theme.I used to create custom themes for websites in a wide variety of modern design.
 
