@@ -5,9 +5,9 @@ hi fellow, I'm currently developing my first of all wordpress theme.I used to cr
 
 I'm not native english tongue so accept my early appologise.
 
-![prototype version of minimal](http://i.imgur.com/DpAiBYs.jpg)  
+![prototype version of minimal](https://cloud.githubusercontent.com/assets/9845317/13714777/e0a872f4-e7e5-11e5-8dda-dc094b3e218d.jpg)  
 
-![prototype version of minimal](http://i.imgur.com/fs2E4DZ.jpg)
+![prototype version of minimal](https://cloud.githubusercontent.com/assets/9845317/13714778/e0d3242c-e7e5-11e5-8c9f-e182bc976fb3.jpg)
 
 its a simple limited shot of the project
 
