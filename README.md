@@ -9,4 +9,4 @@ I'm not native english tongue so accept my early appologise.
 
 its a simple limited shot of the project
 
-surely I appreciate any contributuins.  
+surely I appreciate any contributions.  
