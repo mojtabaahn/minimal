@@ -5,10 +5,10 @@ hi fellow, I'm currently developing my first of all wordpress theme.I used to cr
 
 I'm not native english tongue so accept my early appologise.
 
-![prototype version of minimal](http://s6.picofile.com/file/8242464626/minimal.gif)
+![prototype version of minimal](http://i.imgur.com/DpAiBYs.jpg)  
+
+![prototype version of minimal](http://i.imgur.com/fs2E4DZ.jpg)
 
 its a simple limited shot of the project
 
 surely I appreciate any contributions.
-  
-  and here we go
