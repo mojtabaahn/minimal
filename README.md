@@ -7,7 +7,7 @@ I'm not native english tongue so accept my early appologise.
 
 ![prototype version of minimal](https://cloud.githubusercontent.com/assets/9845317/13714777/e0a872f4-e7e5-11e5-8dda-dc094b3e218d.jpg)  
 
-![prototype version of minimal](https://cloud.githubusercontent.com/assets/9845317/13714778/e0d3242c-e7e5-11e5-8c9f-e182bc976fb3.jpg)
+![prototype version of minimal](https://cloud.githubusercontent.com/assets/9845317/13795930/10bd4970-eb19-11e5-8d86-0af1d292227d.jpg)
 
 its a simple limited shot of the project
 
